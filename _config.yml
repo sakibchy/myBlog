@@ -1,8 +1,8 @@
 ###########
 # site.title
 
-title: 
-description: a minimal, text focused blog theme
+title: "Sakib's Blog"
+description: "Thoughts, ideas, and experiences"
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://sakibchy.github.io" # the base hostname & protocol for your site
 # host: 0.0.0.0
